@@ -13,7 +13,7 @@ Comparing ChIP-seq data with the published RNA-seq data
 
 ```python
 
-- the files are stored as: data/
+- the files are stored as: `data/`
 
 
 
