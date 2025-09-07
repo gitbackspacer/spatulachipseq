@@ -15,6 +15,8 @@ Comparing ChIP-seq data with the published RNA-seq data
 
 - The input files:
 
+md5sum
+--------
 c177c2cff46aed92123ee73101b3e579  chipseq_gene_hit_rank.txt
 7892e8f5f8e07ca72d6214dc65a7bb47  thalemine_summary.csv
 38ec3cc59a4b392e1dfef526d3019841  plants-2165966-target-gene-spt-listing.txt
