@@ -1,7 +1,7 @@
 # spatulachipseq
 Helper scripts to find the common gene in the ChIP-seq study
 
-Compare our ChIP-seq data with the published RNA-seq data
+Comparing ChIP-seq data with the published RNA-seq data
 ----------------------------------------------------------
 
 - We download the `plants-2165966-supplementary.xlsx` the list genes from the study
