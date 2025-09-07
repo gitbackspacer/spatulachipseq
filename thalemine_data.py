@@ -32,13 +32,3 @@ with open('summary.csv', newline='\n', encoding='utf-8') as f:
 
 
 
-exit()
-with open('summary.csv') as inp:
-    next(inp)
-    for line in inp:
-        a = line.strip().split()
-        assert len(a) == len(head0)
-        exit()
-        d = dict(zip(head0, a))
-        print(d['"symbol"'], d['"tairAliases"'] )
-        exit()
